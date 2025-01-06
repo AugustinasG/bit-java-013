@@ -1,4 +1,4 @@
-
+console.log('bit js 013');
 
 // 1. Padaryti mygtuką, kurį paspaudus jis pranyksta.
 
